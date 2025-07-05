@@ -47,7 +47,7 @@ The app includes:
 
 1. **Clone the repository**
    ```bash
-   git clone git push -u origin main
+   git clone https://github.com/yourusername/todo_app.git
    cd todo_app
    ```
 
